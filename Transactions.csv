@@ -1,0 +1,11 @@
+transaction_date,product_name,category,quantity
+2025-01-01,Smartphone,Electronics,5
+2025-01-02,Laptop,Electronics,3
+2025-01-03,Desk,Furniture,2
+2025-01-04,Chair,Furniture,4
+2025-01-05,Tablet,Electronics,10
+2025-01-06,Headphones,Electronics,6
+2025-01-07,Keyboard,Accessories,7
+2025-01-08,Monitor,Electronics,1
+2025-01-09,Mouse,Accessories,3
+2025-01-10,Speaker,Electronics,5
